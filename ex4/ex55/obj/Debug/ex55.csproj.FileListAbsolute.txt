@@ -1,0 +1,11 @@
+C:\Users\alex.msantos22\source\repos\ex55\ex55\bin\Debug\ex55.exe.config
+C:\Users\alex.msantos22\source\repos\ex55\ex55\bin\Debug\ex55.exe
+C:\Users\alex.msantos22\source\repos\ex55\ex55\bin\Debug\ex55.pdb
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.csproj.AssemblyReference.cache
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.Form1.resources
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.Properties.Resources.resources
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.csproj.GenerateResource.cache
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.csproj.CoreCompileInputs.cache
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.exe
+C:\Users\alex.msantos22\source\repos\ex55\ex55\obj\Debug\ex55.pdb
